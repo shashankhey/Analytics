@@ -15,7 +15,7 @@
     "mondrian-rest-client": "^1.0.3",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-bootstrap": "^0.32.1",
+    "react-bootstrap": "^2.7.3",
     "react-clipboard.js": "^1.1.4",
     "react-dom": "^16.2.0",
     "react-helmet": "^5.1.3",
